@@ -3,6 +3,6 @@ using namespace std;
 
 int mian()
 {
-	cout << "Hello World";
+	cout << "Test";
 	return 0;
 }
